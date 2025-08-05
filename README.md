@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Change the Firebase Config in utils/firebase.ts to your own firebase project config
+
 First, run the development server:
 
 ```bash
