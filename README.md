@@ -2,7 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-Change the Firebase Config in utils/firebase.ts to your own firebase project config
+`npm i` in terminal to fix errors
+
+1. Change the Firebase Config in utils/firebase.ts to your own firebase project config
+2. Change the Firestore rules to rules mentioned in firestore_rules.txt
 
 First, run the development server:
 
